@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="a16fe2fb-117f-455b-8234-e0b70f021903">
+  <name>КоллекцияМетодов_Тестирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Коллекция методов тестирование</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="14c5f58d-3374-4810-9e9f-bf2ea6199337"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="17f0713d-a218-4fe4-958c-6cc5ca07220e"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="6b8b8bf5-c06c-4abd-bbed-0189acae01ee"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f756e1fd-716c-42bb-bca2-23c41bc063d6"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="92ee773f-038e-4999-89f9-278787560bf2"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="cacf3096-1097-496b-815c-f0a18b1d50c4"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="93a59a53-4d51-4692-b953-479697844171"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>ЖЧТ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <languages uuid="5435d780-dead-480b-9ec1-b704431957ce">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ЖЧТ_Движок</commonModules>
+  <commonModules>CommonModule.ЖЧТ_Модули</commonModules>
+</mdclass:Configuration>
