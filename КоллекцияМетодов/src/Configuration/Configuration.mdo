@@ -46,4 +46,5 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ЖЧ_СтроковыеФункцииКлиентСервер</commonModules>
 </mdclass:Configuration>

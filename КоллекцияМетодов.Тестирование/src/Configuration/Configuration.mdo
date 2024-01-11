@@ -38,4 +38,5 @@
   </languages>
   <commonModules>CommonModule.ЖЧТ_Движок</commonModules>
   <commonModules>CommonModule.ЖЧТ_Модули</commonModules>
+  <commonModules>CommonModule.ЖЧТ_СтроковыеФункцииКлиентСервер</commonModules>
 </mdclass:Configuration>

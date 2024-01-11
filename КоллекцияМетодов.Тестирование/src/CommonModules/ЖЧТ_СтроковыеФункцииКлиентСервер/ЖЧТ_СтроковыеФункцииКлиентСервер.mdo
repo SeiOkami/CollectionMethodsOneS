@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d2f528ac-688a-4d12-9e45-4037e9ae100d">
+  <name>ЖЧТ_СтроковыеФункцииКлиентСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Строковые функции клиент сервер (ЖЧТ)</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
