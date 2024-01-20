@@ -47,5 +47,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ЖЧ_РаботаСЗапросами</commonModules>
+  <commonModules>CommonModule.ЖЧ_РаботаСТипамиКлиентСервер</commonModules>
   <commonModules>CommonModule.ЖЧ_СтроковыеФункцииКлиентСервер</commonModules>
 </mdclass:Configuration>

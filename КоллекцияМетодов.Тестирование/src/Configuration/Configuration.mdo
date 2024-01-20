@@ -40,4 +40,5 @@
   <commonModules>CommonModule.ЖЧТ_Модули</commonModules>
   <commonModules>CommonModule.ЖЧТ_СтроковыеФункцииКлиентСервер</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСЗапросами</commonModules>
+  <commonModules>CommonModule.ЖЧТ_РаботаСТипамиКлиентСервер</commonModules>
 </mdclass:Configuration>
