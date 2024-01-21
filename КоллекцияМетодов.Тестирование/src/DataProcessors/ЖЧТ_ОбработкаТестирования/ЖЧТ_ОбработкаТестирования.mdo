@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9cfcf94-dfbf-4816-a7f2-064d15eb07f6">
+  <producedTypes>
+    <objectType typeId="1a86e3b5-db37-4c70-a850-ed26efe8c8d0" valueTypeId="72582b32-8a7b-4bbd-a118-7d9984919173"/>
+    <managerType typeId="c212671f-fe77-4663-9396-179a7a3d1570" valueTypeId="5901c991-c0d7-4f31-ac92-54177c11f7aa"/>
+  </producedTypes>
+  <name>ЖЧТ_ОбработкаТестирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вспомогательная обработка тестирования</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <tabularSections uuid="5462da6b-37ee-44db-80ab-95b9edddf33e">
+    <producedTypes>
+      <objectType typeId="2fa14ea6-c47b-4105-b7a5-cab55f8b56c1" valueTypeId="fa55c2e9-ebcc-43ad-8f6d-e7fcdb73fcbb"/>
+      <rowType typeId="a0219f52-f548-4f57-9109-fbf322f190dc" valueTypeId="fddf7a5b-a182-4e7e-bf98-32b962ebd762"/>
+    </producedTypes>
+    <name>СвернутьТабличнуюЧасть_БезРесурсов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Свернуть табличную часть без ресурсов</value>
+    </synonym>
+    <attributes uuid="824e596f-1929-4835-9797-6780218cfcbd">
+      <name>Измерение1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="92a84b88-1286-499b-8782-c731d095f311">
+      <name>Измерение2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение2</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="0f7f885b-ff0c-4172-a2be-418dffcaf437">
+    <producedTypes>
+      <objectType typeId="b1e2121f-40d2-4f79-8e6a-081384a1f9e8" valueTypeId="196f9989-13d8-482d-aa66-455939a9fb52"/>
+      <rowType typeId="04fcca0d-ca39-45f0-9ee5-f2affea2dc99" valueTypeId="5cdb78a0-aff4-4886-a8f8-6222aa677a7b"/>
+    </producedTypes>
+    <name>СвернутьТабличнуюЧасть_ОдинРесурс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Свернуть табличную часть - один ресурс</value>
+    </synonym>
+    <attributes uuid="0091947d-834c-477e-a00d-e7e00c1a5f77">
+      <name>Измерение1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="dc4bc0e8-280f-4cac-a0d0-20f58dfd57a3">
+      <name>Измерение2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение2</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="81fd52b9-6bcb-4d0b-b4c2-ba75caa29f3e">
+      <name>Ресурс1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс1</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="c89fce5b-c51f-4946-82ed-1574d7124a65">
+    <producedTypes>
+      <objectType typeId="426cbac4-1aa2-415e-b15d-321f0c5a50c0" valueTypeId="234bdf70-c823-4a44-8335-77c36093aeaa"/>
+      <rowType typeId="3498ee32-a3f8-467b-92fa-d9dd2e9cdc3c" valueTypeId="f9921c34-8b8c-4416-8553-babacfaffc7e"/>
+    </producedTypes>
+    <name>СвернутьТабличнуюЧасть_НесколькоРесурсов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Свернуть табличную часть несколько ресурсов</value>
+    </synonym>
+    <attributes uuid="47ebaad9-1052-4314-b6b0-140afec5f682">
+      <name>Измерение1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="693bf1a4-3cec-423c-8a4b-60d69c250fe3">
+      <name>Ресурс1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс1</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="ba6f6e60-a3eb-4c45-a13d-cfa3e6d0281b">
+      <name>Измерение2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Измерение2</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="73176cfb-e78e-4a9f-a818-ec84da1f7054">
+      <name>Ресурс2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс2</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="aa16e4f8-a66e-4c8b-b320-8ab59af612fe">
+    <producedTypes>
+      <objectType typeId="082fbc1c-b81e-49f9-a4af-eccabe1780ec" valueTypeId="88fdf618-ae15-4610-b943-f3c9aed5cf22"/>
+      <rowType typeId="6bf46792-3c11-4ce7-982a-7e2b0f1bb8fc" valueTypeId="9ec412b0-2142-4dc0-901d-d8d13ecb0b33"/>
+    </producedTypes>
+    <name>СвернутьТабличнуюЧасть_БезИзмерений</name>
+    <synonym>
+      <key>ru</key>
+      <value>Свернуть табличную часть без измерений</value>
+    </synonym>
+    <attributes uuid="2906c68c-0533-4d7a-a436-75d8cdc0501b">
+      <name>Ресурс1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс1</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <scale>2</scale>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="d2007122-099b-4556-92a5-f480f6f2c017">
+      <name>Ресурс2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс2</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="b47ed9a7-3dc1-4102-b49b-b0da94707efe">
+      <name>Ресурс3</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ресурс3</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+  </tabularSections>
+</mdclass:DataProcessor>
