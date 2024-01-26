@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="046e9259-a3f1-4895-8912-391f64163861">
+  <producedTypes>
+    <objectType typeId="ddd2bb05-99cd-4505-b855-f23de401e601" valueTypeId="18f5b8ff-a244-400e-8ca4-f426b51aa37f"/>
+    <refType typeId="16212de6-1cfd-4181-bf7a-e820810d339d" valueTypeId="11c0687b-4d16-4387-b73b-062dda179743"/>
+    <selectionType typeId="ea94a581-b350-4018-bb76-4979404e4c8e" valueTypeId="6f93b327-0903-4034-aa7e-87eaa7bd101e"/>
+    <listType typeId="3e6a790a-d8d7-4d18-af8c-b08390276b2f" valueTypeId="346ce445-64bc-4670-aa02-57ed51ac9ced"/>
+    <managerType typeId="4af7b3a3-c991-48ba-bdbe-626566d023a4" valueTypeId="027ccd55-6eab-45eb-ad6b-b31d960ca239"/>
+  </producedTypes>
+  <name>ЖЧТ_ТестовыйСправочник</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестовый справочник (ЖЧТ)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ЖЧТ_ТестовыйСправочник.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ЖЧТ_ТестовыйСправочник.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="3a33b029-afa6-4e55-98eb-b55ba903e4d2">
+    <name>Номер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номер</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

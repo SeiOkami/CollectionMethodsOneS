@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e230736-a3f0-4fff-a96b-f9b0c2db25c9">
+  <name>ЖЧТ_РаботаСДанными</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с данными (ЖЧ Тесты)</value>
+  </synonym>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
