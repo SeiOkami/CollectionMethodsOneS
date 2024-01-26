@@ -42,5 +42,7 @@
   <commonModules>CommonModule.ЖЧТ_РаботаСЗапросами</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСТипамиКлиентСервер</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСКоллекциями</commonModules>
+  <commonModules>CommonModule.ЖЧТ_РаботаСДанными</commonModules>
+  <catalogs>Catalog.ЖЧТ_ТестовыйСправочник</catalogs>
   <dataProcessors>DataProcessor.ЖЧТ_ОбработкаТестирования</dataProcessors>
 </mdclass:Configuration>

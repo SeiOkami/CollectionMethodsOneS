@@ -46,6 +46,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ЖЧ_РаботаСДанными</commonModules>
   <commonModules>CommonModule.ЖЧ_РаботаСЗапросами</commonModules>
   <commonModules>CommonModule.ЖЧ_РаботаСКоллекциями</commonModules>
   <commonModules>CommonModule.ЖЧ_РаботаСТипамиКлиентСервер</commonModules>
