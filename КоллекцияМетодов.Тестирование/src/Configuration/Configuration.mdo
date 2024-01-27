@@ -45,4 +45,5 @@
   <commonModules>CommonModule.ЖЧТ_РаботаСДанными</commonModules>
   <catalogs>Catalog.ЖЧТ_ТестовыйСправочник</catalogs>
   <dataProcessors>DataProcessor.ЖЧТ_ОбработкаТестирования</dataProcessors>
+  <informationRegisters>InformationRegister.ЖЧТ_РегистрСведений</informationRegisters>
 </mdclass:Configuration>
