@@ -12,7 +12,8 @@
             "Typo": {
                 "userWordsToIgnore": "Врег"
             },
-            "IfElseIfEndsWithElse": false
+            "IfElseIfEndsWithElse": false,
+            "QueryParseError": false
         }
     }
 }
