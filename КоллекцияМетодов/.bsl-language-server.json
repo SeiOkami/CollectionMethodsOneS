@@ -13,7 +13,11 @@
                 "userWordsToIgnore": "Врег"
             },
             "IfElseIfEndsWithElse": false,
-            "QueryParseError": false
+            "QueryParseError": false,
+            "CognitiveComplexity": {
+                "complexityThreshold": 20,
+                "checkModuleBody": true
+            }
         }
     }
 }
