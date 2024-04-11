@@ -47,4 +47,32 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <tabularSections uuid="197f4f5d-64f0-4b6d-8ad1-a70841c528ca">
+    <producedTypes>
+      <objectType typeId="5a852706-d558-44e1-a918-51ba7728e597" valueTypeId="5c56fdf1-8cdc-40d6-84ab-07b17f4d7fda"/>
+      <rowType typeId="574fdb4a-9e5a-4ca9-945b-e2e66bfa152c" valueTypeId="c2a89fb7-d241-4a87-a69b-c5d2e50e0a96"/>
+    </producedTypes>
+    <name>ТестоваяТЧ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тестовая ТЧ</value>
+    </synonym>
+    <attributes uuid="eb69f554-99e8-44d8-b155-79499fa5982b">
+      <name>Реквизит</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
 </mdclass:Catalog>
