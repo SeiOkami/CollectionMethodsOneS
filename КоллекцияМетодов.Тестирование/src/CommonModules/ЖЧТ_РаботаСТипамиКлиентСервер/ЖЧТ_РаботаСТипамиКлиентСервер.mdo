@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="62a86d8d-73c3-4b6e-837e-ac9997b57de8">
-  <name>ЖЧТ_РаботаСТипамиКлиентСервер</name>
+  <name>ЖЧТ_РаботаСТипами</name>
   <synonym>
     <key>ru</key>
     <value>Работа с типами клиент сервер</value>
