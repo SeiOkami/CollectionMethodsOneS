@@ -38,7 +38,7 @@
   </languages>
   <commonModules>CommonModule.ЖЧТ_Движок</commonModules>
   <commonModules>CommonModule.ЖЧТ_Модули</commonModules>
-  <commonModules>CommonModule.ЖЧТ_СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.ЖЧТ_СтроковыеФункции</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСЗапросами</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСТипами</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСКоллекциями</commonModules>

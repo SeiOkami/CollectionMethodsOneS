@@ -50,6 +50,6 @@
   <commonModules>CommonModule.ЖЧ_РаботаСЗапросами</commonModules>
   <commonModules>CommonModule.ЖЧ_РаботаСКоллекциями</commonModules>
   <commonModules>CommonModule.ЖЧ_РаботаСоСхемойКомпоновкиДанных</commonModules>
-  <commonModules>CommonModule.ЖЧ_РаботаСТипамиКлиентСервер</commonModules>
+  <commonModules>CommonModule.ЖЧ_РаботаСТипами</commonModules>
   <commonModules>CommonModule.ЖЧ_СтроковыеФункции</commonModules>
 </mdclass:Configuration>
