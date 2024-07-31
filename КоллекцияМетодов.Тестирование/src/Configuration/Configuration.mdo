@@ -3,7 +3,7 @@
   <name>КоллекцияМетодов_Тестирование</name>
   <synonym>
     <key>ru</key>
-    <value>Коллекция методов тестирование</value>
+    <value>Тестирование коллекции методов &quot;Желтого чайника&quot;</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
