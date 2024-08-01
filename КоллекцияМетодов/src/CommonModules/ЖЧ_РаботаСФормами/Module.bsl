@@ -7,7 +7,7 @@
 
 // Если форма открыта в другом окне, то процедура отключает автоматическое сохранение настроек списка
 // Например, когда форма открывается из навигационной панели другой формы
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/74
 //
 // Параметры:
 //  Форма - ФормаКлиентскогоПриложения - Форма списка
@@ -27,7 +27,7 @@
 #Если НЕ ВебКлиент Тогда
 
 // Возвращает структуру из параметров формы.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/133
 // 
 // Параметры:
 //  ПараметрыФормы - ДанныеФормыСтруктура
@@ -76,7 +76,7 @@
 #КонецЕсли
 
 // Добавляет элемент условного оформления по параметрам
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/83
 //
 // Параметры:
 //  УсловноеОформление	 - УсловноеОформлениеКомпоновкиДанных - Коллекция условного оформления
@@ -126,7 +126,7 @@
 КонецФункции
 
 // Обновить признак предупреждения при редактировании элемента в зависимости от заполненности указанных данных.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/100
 // 
 // Параметры:
 //  Форма - ФормаКлиентскогоПриложения
@@ -163,7 +163,7 @@
 КонецПроцедуры
 
 // Текущие данные таблицы (клиент-сервеный метод для упрощения получания текущих данных табицы формы).
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/88
 // 
 // Параметры:
 //  Форма - ФормаКлиентскогоПриложения

@@ -3,7 +3,7 @@
 #Область ПрограммныйИнтерфейс
 
 // Сворачивает табличную часть по всем колонкам (Числовые колонки при этом суммируются). 
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/22
 //
 // Параметры:
 //  ТабличнаяЧасть - ТабличнаяЧасть - ТЧ объекта, которую нужно свернуть
@@ -36,7 +36,7 @@
 
 // Функция возвращает копию переданной таблицы значений, но исключая из всех колонок тип Null
 // Бывает полезна для обработки выгрузки запроса, в котором у каждой колонки есть тип Null
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/24
 // 
 // Параметры:
 //  ТаблицаЗначений - ТаблицаЗначений
@@ -67,7 +67,7 @@
 
 // Добавляет новую колонку или обновляет существующую
 // Если колонка уже есть, то обновляет свойства Заголовок и Ширина
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/23
 // 
 // Параметры:
 //  ТаблицаЗначений  - ТаблицаЗначений - Таблица значений, в которую нужно добавить колонку
@@ -110,7 +110,7 @@
 
 // Возвращает новую таблицу значений с добавлением новой колонки в обход ограничений доступных символов в имени.
 // Использовать не рекомендуется. Просто забавы ради.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/35
 // 
 // Параметры:
 //  ПлохоеИмя		 - Строка - Имя добавляемой колонки, которое может не соответствовать требованиям к символам
@@ -141,7 +141,7 @@
 КонецФункции
 
 // Возвращает имена колонок таблицы, по которым во всех строках пустые значения
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/30
 // 
 // Параметры:
 //  ТаблицаЗначений - ТаблицаЗначений - Таблица, в которой нужно найти пустые колонки
@@ -200,7 +200,7 @@
 КонецФункции
 
 // Выгружает колонку таблицы значений
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/90
 // 
 //  Параметры:
 //  Таблица - ТаблицаЗначений
@@ -236,7 +236,7 @@
 КонецФункции
 
 // Возвращает таблицу значений на основе текста (формат в примере использования).
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/11
 //  
 // Параметры:
 //  Текст - Строка
@@ -265,7 +265,7 @@
 КонецФункции
 
 // Заполнить таблицу значений из строки (формат в примере использования)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/11
 //  
 // Параметры:
 //  Текст   - Строка
@@ -335,7 +335,7 @@
 КонецПроцедуры
 
 // Возвращает массив имен колонок таблицы значений.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/67
 //  
 // Параметры:
 //  Таблица - ТаблицаЗначений
@@ -360,7 +360,7 @@
 КонецФункции
 
 // Возвращает список значений на основе переданных данных.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/66
 //  
 // Параметры:
 //  Источник - Произвольный, Булево, Неопределено - Источник значений
@@ -396,7 +396,7 @@
 КонецФункции
 
 // Находит колонки с произвольным типом и заменяет их на типизированные
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/34
 // 
 // Параметры:
 //  ТаблицаЗначений	 - ТаблицаЗначений - Таблица, колонки которой необходимо типизировать
@@ -470,7 +470,7 @@
 КонецПроцедуры
 
 // Изменить тип колонки.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/34
 //  
 // Параметры:
 //  ТаблицаЗначений - ТаблицаЗначений - Таблица значений
@@ -510,7 +510,7 @@
 КонецПроцедуры
 
 // Объединить таблицы значений.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/86
 //  
 // Параметры:
 //  МассивТаблиц - Массив из ТаблицаЗначений
@@ -564,7 +564,7 @@
 КонецФункции
 
 // Заполнить таблицу значений из дерева рекурсивно.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/91
 //  
 // Параметры:
 //  ТаблицаЗначений - ТаблицаЗначений
@@ -604,7 +604,7 @@
 КонецПроцедуры
 
 // Заменяет в объекте все ссылки на элементы на их навигационные ссылки
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/127
 // 
 // Параметры:
 //  Объект - Массив из Произвольный

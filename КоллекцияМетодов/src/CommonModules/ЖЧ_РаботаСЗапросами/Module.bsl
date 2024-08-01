@@ -3,7 +3,7 @@
 #Область ПрограммныйИнтерфейс
 
 // Заполняет в запросе параметры из структуры (берет только те, что есть в запросе, игнорируя лишние свойства).
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/5
 // 
 // Параметры:
 //  Запрос - Запрос
@@ -28,7 +28,7 @@
 КонецПроцедуры
 
 // Добавляет таблицу в менеджер временных таблиц
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/31
 // 
 // Параметры:
 //  МенеджерВременныхТаблиц	 - МенеджерВременныхТаблиц - Менеджер, в который нужно добавить таблицу
@@ -50,7 +50,7 @@
 КонецПроцедуры
 
 // Возвращает отформатированный текст запроса.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/62
 //  
 // Параметры:
 //  ТекстЗапроса - Строка
@@ -74,7 +74,7 @@
 КонецФункции
 
 // Возвращает пустую таблицу значений результата запроса на основе его текста
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/85
 // 
 // Параметры:
 //  ТекстЗапроса - Строка
@@ -129,7 +129,7 @@
 КонецФункции
 
 // Возвращает новый элемент отбора построителя
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/17
 // 
 // Параметры:
 //  Построитель    - ПостроительЗапроса, ПостроительОтчета - Построитель, в которой необходимо добавить элемент отбора

@@ -3,7 +3,7 @@
 #Область ПрограммныйИнтерфейс
 
 // Возвращает новый объект переданного типа.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/20
 //  
 // Параметры:
 //  Тип - Строка, Тип - Тип или имя типа
@@ -33,7 +33,7 @@
 КонецФункции
 
 // Новый объект ОписаниеТипов.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/39
 //  
 // Параметры:
 //  Тип - Строка, Тип, ОписаниеТипов, Неопределено - Тип(ы)
@@ -62,7 +62,7 @@
 КонецФункции
 
 // Новый объект Массив.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/41
 //  
 // Параметры:
 //  Источник - Строка - Значения, разделенные запятыми или переносами строк
@@ -104,7 +104,7 @@
 КонецФункции
 
 // Заполнить структуру рекурсивно.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/43
 //  
 // Параметры:
 //  Приемник - Структура
@@ -145,7 +145,7 @@
 // Проверяет соответствие значения шаблону.
 // Содержит ли значнеие свойства шаблона.
 // Позволяет "интерфейс" структуры
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/38
 //  
 // Параметры:
 //  Значение - Структура, Произвольный - Проверяемое значение
@@ -181,7 +181,7 @@
 КонецФункции
 
 // Возвращает новую структуру на основе параметров.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/42
 //  
 // Параметры:
 //  Источник - Структура
@@ -228,7 +228,7 @@
 КонецФункции
 
 // Приводит число к нужному диапазону.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/40
 //  
 // Параметры:
 //  Число - Число
@@ -253,7 +253,7 @@
 КонецПроцедуры
 
 // Проверяет существование типа (упрощает разработку инструмента с поддержкой старых платформ)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/57
 //  
 // Параметры:
 //  ИмяТипа - Строка
@@ -274,7 +274,7 @@
 КонецФункции
 
 // Является ли проверяемый тип одним из переданных типов.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/87
 //  
 // Параметры:
 //  Тип - Тип - Проверяемый тип
@@ -322,7 +322,7 @@
 КонецФункции
 
 // Является ли переданная строка корректным в качестве имени переменной или свойства объекта.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/65
 //  
 // Параметры:
 //  ИмяСвойства - Строка - Проверяемое имя свойство
@@ -349,7 +349,7 @@
 КонецФункции
 
 // Все возможные пустые значения на основе описания типов.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/68
 //  
 // Параметры:
 //  ОписаниеТипов - ОписаниеТипов
@@ -380,7 +380,7 @@
 КонецФункции
 
 // Функция определяет существование метода объекта
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/56
 // 
 // Параметры:
 //  Объект - Произвольный
@@ -422,7 +422,7 @@
 #Если Сервер Тогда
 
 // Имена свойств объекта метаданных.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/70
 // 
 // Параметры:
 //  ОбъектМетаданныхИлиПолноеИмя - ОбъектМетаданных, Строка - Объект метаданных
@@ -462,7 +462,7 @@
 
 // Является ли переданный тип менеджером записи регистра сведений
 // К сожалению, либо этот вариант, либо тупо проверка представления типа
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/25
 // 
 // Параметры:
 //  ТипЗначения - Тип
@@ -485,7 +485,7 @@
 
 // Возвращает описание таблицы значений по полному имени таблицы базы данных
 // Например "Справочник.Валюты" или "РегистрСведений.КурсыВалют"
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/21
 //
 // Параметры:
 //  ПолноеИмя  - Строка - Полное имя таблицы базы данных

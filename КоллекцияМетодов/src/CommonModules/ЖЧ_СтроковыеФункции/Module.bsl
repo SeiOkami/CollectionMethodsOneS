@@ -3,7 +3,7 @@
 #Область ПрограммныйИнтерфейс
 
 // Заменяет в строке именованные параметры на значения свойств объекта (по формату %ИмяСвойства%)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/1
 //  
 // Параметры:
 //  ШаблонСтроки - Строка - Строка, в которую необходимо всавить свойства объекта
@@ -34,7 +34,7 @@
 
 // Возвращает форматированную строку, в которой части выделены.
 // Например, "Выдели `слово` в предложении"
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/4
 //  
 // Параметры:
 //  Строка - Строка
@@ -64,7 +64,7 @@
 КонецФункции
 
 // Метод выделяет подстроку внутри подстроки с использованием метода см. СтрНайтиИВыделитьОформлением
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/3
 //  
 // Параметры:
 //  Строка - Строка - Исходная строка
@@ -118,7 +118,7 @@
 КонецФункции
 
 // Возвращает результат проверки корректности шаблона строки (метода СтрШаблон)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/12
 //  
 // Параметры:
 //  ШаблонСтроки - Строка
@@ -137,7 +137,7 @@
 КонецФункции
 
 // Проверяет корректность шаблона строки (метода СтрШаблон)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/12
 // 
 // Параметры:
 //  ШаблонСтроки - Строка
@@ -150,7 +150,7 @@
 КонецПроцедуры
 
 // Возвращает строку нужной длины из указанного символа
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/120
 // 
 // Параметры:
 //  Длина - Число
@@ -172,8 +172,8 @@
 КонецФункции
 
 // @skip-check method-too-many-params
-// Перед вставкой параметров проверяет
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Перед вставкой параметров проверяет существование параметра в шаблоне
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/129
 // 
 // Параметры:
 //  Шаблон - Строка
@@ -213,7 +213,7 @@
 КонецФункции
 
 // Затереть параметр при его отсутствии в шаблоне.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/129
 // 
 // Параметры:
 //  Шаблон - Строка

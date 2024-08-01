@@ -3,7 +3,7 @@
 #Область ПрограммныйИнтерфейс
 
 // Подставляет в последний пакет набора данных запроса конструкцию ВЫБРАТЬ ПЕРВЫЕ N
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/16
 // 
 // Параметры:
 //  НаборДанных  - НаборДанныхЗапросСхемыКомпоновкиДанных - Набор данных СКД
@@ -28,7 +28,7 @@
 КонецПроцедуры
 
 // Создает новый компоновщик настроек на основе СКД и настроек
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/84
 // 
 // Параметры:
 //  СхемаКомпоновкиДанных - СхемаКомпоновкиДанных
@@ -51,7 +51,7 @@
 КонецФункции
 
 // Возвращает поле компоновки данных на основе строки или пользовательского поля.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/82
 //  
 // Параметры:
 //  Поле - Строка, ПользовательскоеПолеВыборКомпоновкиДанных, ПользовательскоеПолеВыражениеКомпоновкиДанных, ПолеКомпоновкиДанных - Источник поля
@@ -83,7 +83,7 @@
 КонецФункции
 
 // Возвращает новый объект СКД с заполненными служебными свойствами
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/77
 //  
 // Возвращаемое значение:
 //  СхемаКомпоновкиДанных
@@ -105,7 +105,7 @@
 КонецФункции
 
 // Добавляет новый набор данных объект в СКД и возврашает его
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/79
 //  
 // Параметры:
 //  СКД - СхемаКомпоновкиДанных
@@ -130,7 +130,7 @@
 КонецФункции
 
 // Добавляет новый набор данных запрос в СКД и возврашает его
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/78
 //  
 // Параметры:
 //  СКД - СхемаКомпоновкиДанных
@@ -157,7 +157,7 @@
 КонецФункции
 
 // Добавляет новое поле в набор данных СКД и возврашает его
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/80
 //  
 // Параметры:
 //  НаборДанных - НаборДанныхОбъектСхемыКомпоновкиДанных
@@ -193,7 +193,7 @@
 КонецФункции
 
 // Ищет набор данных по имени (можно рекурсивно).
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/81
 //  
 // Параметры:
 //  КоллекцияНаборов - СхемаКомпоновкиДанных
@@ -244,7 +244,7 @@
 КонецФункции
 
 // Возвращает структуру с параметрами настроек компоновки данных (с учетом флага использования)
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/72
 // 
 // Параметры:
 //  СхемаКомпоновкиДанных - СхемаКомпоновкиДанных
@@ -287,7 +287,7 @@
 КонецФункции
 
 // Рекурсивно удаляет недоступные элементы из коллекции отборов
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/15
 //
 // Написан для статьи Как ограничить поля отбора в динамическом списке и ничего не сломать: 
 // https://infostart.ru/public/1226445/?ref=1159
@@ -345,7 +345,7 @@
 
 // Выводит в коллекцию выбранных полей СКД все доступные поля.
 // Метод иерархический, для вызова достаточно передать коллекцию выбранных полей, которые нужно заполнить.
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/18
 //
 // Параметры:
 //
@@ -391,7 +391,7 @@
 КонецПроцедуры
 
 // Возвращает таблицу значений с колонками набора данных СКД
-// Источник: https://github.com/SeiOkami/CollectionMethodsOneS
+// Источник: https://github.com/SeiOkami/CollectionMethodsOneS/issues/132
 // 
 // Параметры:
 //  НаборДанных - НаборДанныхОбъектСхемыКомпоновкиДанных
