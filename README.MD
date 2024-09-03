@@ -1,3 +1,4 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/6/741891497.json)](https://openyellow.org/grid?data=top&repo=741891497)
 
 # Коллекция кода на 1С (Желтый Чайник 1С)
 
