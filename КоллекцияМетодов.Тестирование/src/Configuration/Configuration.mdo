@@ -47,6 +47,7 @@
   <commonModules>CommonModule.ЖЧТ_Общее</commonModules>
   <commonModules>CommonModule.ЖЧТ_РаботаСФормами</commonModules>
   <commonModules>CommonModule.ЖЧТ_ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ЖЧТ_МатематическиеМетоды</commonModules>
   <commonForms>CommonForm.ЖЧТ_РаботаСФормами</commonForms>
   <catalogs>Catalog.ЖЧТ_ТестовыйСправочник</catalogs>
   <dataProcessors>DataProcessor.ЖЧТ_ОбработкаТестирования</dataProcessors>
