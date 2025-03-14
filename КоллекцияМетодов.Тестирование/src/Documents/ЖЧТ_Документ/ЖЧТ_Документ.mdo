@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1082a706-1687-4340-a08c-d60337ea29aa">
+  <producedTypes>
+    <objectType typeId="393549a9-40df-4e67-b322-eb54f7037618" valueTypeId="ddaf10b1-1c00-4c63-99c1-0102111f2ce2"/>
+    <refType typeId="26d5a9a1-56ee-4e49-b1a6-0c8a38740521" valueTypeId="f195ff14-8ffe-42a5-84ca-7c11c2411d2e"/>
+    <selectionType typeId="994fedc6-b56e-4f20-bc47-7bd027d932d5" valueTypeId="a2b3fead-b056-4603-ba01-90f4becea4dd"/>
+    <listType typeId="43020c55-44e4-4257-915a-1ac620d6db14" valueTypeId="531d89f3-fbc7-464e-95ea-1db072bab3ad"/>
+    <managerType typeId="f105f8f8-24e9-41ee-a1a4-387e1ad651ed" valueTypeId="357c53c5-787a-4949-b514-ab0119935d79"/>
+  </producedTypes>
+  <name>ЖЧТ_Документ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документ (ЖЧТ)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ЖЧТ_Документ.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.ЖЧТ_Документ.Form.ФормаДокумента</defaultObjectForm>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="165d3d6c-eb38-4e41-ac76-af554e5d581f">
+    <name>ОбязательныйРеквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обязательный реквизит</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="d9c725c9-6aa8-40ae-aa0a-be90ca9619e7">
+    <name>ВызватьИсключениеПередЗаписью</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вызвать исключение перед записью</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <forms uuid="56e230c3-a89d-4425-9dfb-3234df1986fa">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>

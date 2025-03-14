@@ -48,8 +48,10 @@
   <commonModules>CommonModule.ЖЧТ_РаботаСФормами</commonModules>
   <commonModules>CommonModule.ЖЧТ_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.ЖЧТ_МатематическиеМетоды</commonModules>
+  <commonModules>CommonModule.ЖЧТ_ОбщееВызовСервера</commonModules>
   <commonForms>CommonForm.ЖЧТ_РаботаСФормами</commonForms>
   <catalogs>Catalog.ЖЧТ_ТестовыйСправочник</catalogs>
+  <documents>Document.ЖЧТ_Документ</documents>
   <dataProcessors>DataProcessor.ЖЧТ_ОбработкаТестирования</dataProcessors>
   <informationRegisters>InformationRegister.ЖЧТ_РегистрСведений</informationRegisters>
 </mdclass:Configuration>
