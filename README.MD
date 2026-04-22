@@ -20,7 +20,7 @@
 Все методы, которые имеют завершенную версию, содержат тег "Опубликован". По нему стоит искать, чтобы отсечь заготовки и технические issues.
 
 Поиск по коллекции методов можно делать по данной ссылке:  
-**[Реестр методов](https://github.com/SeiOkami/CollectionMethodsOneS/issues?q=label%3A%D0%9E%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD)**
+**[Реестр методов](https://github.com/Badakismati/CollectionMethodsOneS/issues?q=label%3A%D0%9E%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD)**
 
 ## Дисклеймер
 
