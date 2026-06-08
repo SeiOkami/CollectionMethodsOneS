@@ -10,7 +10,6 @@
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
     <defaultLanguage>Checked</defaultLanguage>
-    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="14c5f58d-3374-4810-9e9f-bf2ea6199337"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="17f0713d-a218-4fe4-958c-6cc5ca07220e"/>
@@ -27,7 +26,6 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <defaultLanguage>Language.Русский</defaultLanguage>
-  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <languages uuid="5435d780-dead-480b-9ec1-b704431957ce">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>

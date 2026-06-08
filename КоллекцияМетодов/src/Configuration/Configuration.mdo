@@ -11,7 +11,6 @@
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
     <defaultLanguage>Checked</defaultLanguage>
-    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="608e3b5e-af04-479c-b92a-fe4c1d13836f"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="30fe3d6c-8aa4-45a4-b54d-e1a1c313ecce"/>
@@ -37,7 +36,6 @@
     <key>ru</key>
     <value>https://github.com/SeiOkami</value>
   </vendorInformationAddress>
-  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <languages uuid="2815d520-5463-4195-a1b8-562957a4764a">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
